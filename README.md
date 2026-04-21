@@ -1,6 +1,4 @@
-<img src="banner_github.png" alt="Bilel Banner" width="100%" />
 
-###
 
 <h1 align="center">Salut, moi c’est Bilel 👋🏼</h1>
 
@@ -53,12 +51,15 @@
 ###
 
 <div align="center">
-<h2 align="center">Retrouvez moi sur : </h2> <br>
+  <h2 align="center">Retrouvez moi sur : </h2> <br>
   <a href="www.linkedin.com/in/bilel-dounar-26a87b21b" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a> 
   <a href="https://www.instagram.com/blx___x/?__d=11" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://kleoz.fr" target="_blank">
+    <img src="https://kleoz.fr/logo.svg" width="52" height="40" alt="site logo"  />
   </a>
 </div>
 
